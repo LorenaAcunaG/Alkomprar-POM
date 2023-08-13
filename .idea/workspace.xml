@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e904611-b57f-4553-b7ec-f0d666f5e409" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProductDetailPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProductDetailPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProductListPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProductListPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProfilePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProfilePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/RegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/VerificationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/VerificationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/HomeSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/HomeSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductDetailSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductDetailSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductListSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductListSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProfileSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProfileSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/RegistrationSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/RegistrationSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/VerificationSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/VerificationSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/utils/SeleccionRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/utils/SeleccionRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/alkomprar/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alkomprar/runners/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/AgregarProductoCarritoStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/AgregarProductoCarritoStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/RegistroUsuarioStepsDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/RegistroUsuarioStepsDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/AgregarProductoCarrito.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/AgregarProductoCarrito.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/RegistroUsuario.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/RegistroUsuario.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Alkomprar-POM" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TnOAvwrhoIrSZFl20DO9KKEM4N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/Documentos/Semillero SQA/Youtube-POM_Profe",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Documentos\Semillero SQA\Alkomprar-POM\src\main\java\com\alkomprar\utils" />
+      <recent name="E:\Documentos\Semillero SQA\Alkomprar-POM\src\test\resources" />
+      <recent name="E:\Documentos\Semillero SQA\Alkomprar-POM\src\test\resources\features" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.alkomprar.runners.Runner&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e904611-b57f-4553-b7ec-f0d666f5e409" name="Changes" comment="" />
+      <created>1691675241141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691675241141</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+</project>
