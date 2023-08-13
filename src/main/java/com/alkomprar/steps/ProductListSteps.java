@@ -4,8 +4,10 @@ import com.alkomprar.pageObject.ProductListPage;
 import com.alkomprar.utils.SeleccionRandom;
 import net.thucydides.core.annotations.Step;
 import org.fluentlenium.core.annotation.Page;
+import org.junit.Assert;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
 public class ProductListSteps {
     @Page
@@ -20,6 +22,7 @@ public class ProductListSteps {
         );
         //producto.click();
         JavascriptExecutor jsExecutor = (JavascriptExecutor) listaProductos.getDriver();
-        jsExecutor.executeScript("arguments[0].click();", producto);
+        jsExecutor.executeScript("arguments[0].click()", producto);
+
     }
 }

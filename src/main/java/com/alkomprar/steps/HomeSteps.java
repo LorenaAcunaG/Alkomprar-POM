@@ -39,8 +39,6 @@ public class HomeSteps {
 
         home.getDriver().findElement(home.getTxtBuscador())
                 .sendKeys("lavadora");
-
-
     }
 
     @Step("Dar click en buscar")

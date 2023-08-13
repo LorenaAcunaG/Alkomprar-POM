@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e904611-b57f-4553-b7ec-f0d666f5e409" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProductToCartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductToCartSteps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProductDetailPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProductDetailPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProductListPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProductListPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProfilePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProfilePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/RegistrationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/VerificationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/VerificationPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/HomeSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/HomeSteps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductDetailSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductDetailSteps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductListSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductListSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProfileSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProfileSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/RegistrationSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/RegistrationSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/VerificationSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/VerificationSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/utils/SeleccionRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/utils/SeleccionRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/alkomprar/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alkomprar/runners/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/AgregarProductoCarritoStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/AgregarProductoCarritoStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/RegistroUsuarioStepsDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/RegistroUsuarioStepsDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/AgregarProductoCarrito.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/AgregarProductoCarrito.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/RegistroUsuario.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/RegistroUsuario.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,15 +62,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "E:/Documentos/Semillero SQA/Youtube-POM_Profe",
-    "settings.editor.selected.configurable": "preferences.fileTypes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Documentos/Semillero SQA/Youtube-POM_Profe&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Documentos\Semillero SQA\Alkomprar-POM\src\main\java\com\alkomprar\utils" />
