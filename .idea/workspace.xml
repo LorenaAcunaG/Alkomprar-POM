@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e904611-b57f-4553-b7ec-f0d666f5e409" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProductToCartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductToCartSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/models/CredencialesUsuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/models/DatosProducto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/utils/Excel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProductDetailPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/pageObject/ProductDetailPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/HomeSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/HomeSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductDetailSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductDetailSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductListSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/ProductListSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/RegistrationSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/RegistrationSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/VerificationSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkomprar/steps/VerificationSteps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/AgregarProductoCarritoStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alkomprar/stepDefinitions/AgregarProductoCarritoStepDefinitions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,15 +67,20 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Documentos/Semillero SQA/Youtube-POM_Profe&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Documentos/Semillero SQA/demo-julio&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Documentos\Semillero SQA\Alkomprar-POM\src\main\java\com\alkomprar\models" />
       <recent name="E:\Documentos\Semillero SQA\Alkomprar-POM\src\main\java\com\alkomprar\utils" />
       <recent name="E:\Documentos\Semillero SQA\Alkomprar-POM\src\test\resources" />
       <recent name="E:\Documentos\Semillero SQA\Alkomprar-POM\src\test\resources\features" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.alkomprar.models" />
+      <recent name="com.alkomprar.utils" />
     </key>
   </component>
   <component name="RunManager">

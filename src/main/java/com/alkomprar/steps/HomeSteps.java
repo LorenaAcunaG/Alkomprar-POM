@@ -1,5 +1,7 @@
 package com.alkomprar.steps;
 
+import com.alkomprar.models.CredencialesUsuario;
+import com.alkomprar.models.DatosProducto;
 import com.alkomprar.pageObject.HomePage;
 import net.serenitybdd.core.pages.WebElementFacade;
 import net.thucydides.core.annotations.Step;
@@ -34,11 +36,12 @@ public class HomeSteps {
 
     @Step("Buscar producto en el buscador")
     public void buscarProducto(){
+        String producto = DatosProducto.dataProducto().get(0).get("Producto a buscar");
         home.getDriver().findElement(home.getTxtBuscador())
                 .click();
 
         home.getDriver().findElement(home.getTxtBuscador())
-                .sendKeys("lavadora");
+                .sendKeys(producto);
     }
 
     @Step("Dar click en buscar")
@@ -49,7 +52,7 @@ public class HomeSteps {
         WebElement btnBuscar = home.getDriver().findElement(home.getBtnBuscar());
         wait.until(ExpectedConditions.elementToBeClickable(btnBuscar));
 
-        // Ahora el botón debería estar habilitado y puedes hacer clic en él
+        // Ahora el botón está habilitado y se puede hacer click en él
         btnBuscar.click();
 
 

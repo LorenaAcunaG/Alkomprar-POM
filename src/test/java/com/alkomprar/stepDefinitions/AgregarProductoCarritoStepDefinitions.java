@@ -31,7 +31,7 @@ public class AgregarProductoCarritoStepDefinitions {
         listaPdctosSteps.seleccionarProducto();
     }
     @Cuando("pulse en el botón de agregar al carrito")
-    public void pulseEnElBotónDeAgregarAlCarrito() {
+    public void pulseEnElBotonDeAgregarAlCarrito() {
         detallePdctoSteps.validarNombreProducto();
         detallePdctoSteps.AgregarProductoCarrito();
     }

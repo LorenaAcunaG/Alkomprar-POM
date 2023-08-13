@@ -1,5 +1,6 @@
 package com.alkomprar.steps;
 
+import com.alkomprar.models.CredencialesUsuario;
 import com.alkomprar.pageObject.VerificationPage;
 import net.thucydides.core.annotations.Step;
 import org.fluentlenium.core.annotation.Page;
@@ -11,8 +12,9 @@ public class VerificationSteps {
 
     @Step("Escribir correo del usuario")
     public void enviarCorreoUsuario() {
+        String correoUsuario = CredencialesUsuario.dataUsuario().get(0).get("correo");
         verificacion.getDriver().findElement(verificacion.getTxtCorreoUsuario())
-                .sendKeys("jirkabalta@gufum.com");
+                .sendKeys(correoUsuario);
     }
 
     @Step("Hacer click en botón continuar")
